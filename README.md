@@ -1,1 +1,1 @@
-# ANN-and-CNN-compare
+# ANN and CNN comparison
