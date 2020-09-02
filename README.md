@@ -4,4 +4,4 @@ I have used MNIST dataset for this comparison.
 
 Results
 - CNN converges faster then plain vanilla network
-- With equal number of epochs, CNN gave 0.2% more validation accuracy as compared to vanilla network
+- With equal number of epochs, CNN gave 2% more validation accuracy as compared to vanilla network
